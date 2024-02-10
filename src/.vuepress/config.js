@@ -1,4 +1,6 @@
 const { description } = require('../../package')
+const HtmlWebpackPlugin = require("html-webpack-plugin");
+const HtmlWebpackInlineSourcePlugin = require("html-webpack-inline-source-plugin");
 
 module.exports = {
   title: 'Wealth Scales',
@@ -23,5 +25,9 @@ module.exports = {
   plugins: [
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
+    new HtmlWebpackPlugin({
+      inlineSource: '.(js|css)$' // embed all javascript and css inline
+    }),
+    new HtmlWebpackInlineSourcePlugin(),
   ]
 }
