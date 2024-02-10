@@ -5,7 +5,7 @@
             <v-col v-if="shiftRight" :cols="shiftRight"> </v-col>
             <v-col :cols="fulcrumCols">
                 <div :style="{textAlign: 'center'}">
-                    <v-icon :size="100">mdi-menu-up</v-icon>
+                    <v-icon :size="150">mdi-menu-up</v-icon>
                 </div>
             </v-col>
         </v-row>
