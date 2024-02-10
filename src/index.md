@@ -18,7 +18,8 @@ home: true
 <p>So there are people with much more than that .. and there are people with much less than that.</p>
 <p>What that means is for there to be a millionaire there has to be the equivalent of one household with nothing.</p>
 <p>In reality there isn't one household with nothing, the cost is shared, but the point is that for 
-the average net worth to be where it is, there has to be people with less to balance the scales.</p>
+the average net worth to be where it is, there has to be an equivalent number of people with less 
+than the average in order for the scales to balance.</p>
 <v-row class="mt-5">
 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1 household with £0</span></v-col>
 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1 person with £1M</span></v-col>
@@ -126,7 +127,7 @@ the average net worth to be where it is, there has to be people with less to bal
 <p>So each one of these is equivalent to 10,000 households.</p>
 <v-row class="mt-5">
 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1 town</span></v-col>
-<v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">100 tower-blocks</span></v-col>
+<v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">100 tower-blocks<br/>(or 10,000 households)</span></v-col>
 <v-col :cols="6"><households icon="mdi-home-city" :size="250" :width="1" :height="1"/></v-col>
 <v-col :cols="6"><households icon="mdi-office-building" :size="20" :width="10" :height="10"/></v-col>
 <v-col :cols="12"><see-saw/></v-col>
@@ -151,8 +152,9 @@ the average net worth to be where it is, there has to be people with less to bal
 </v-card>
 
 <v-card class="my-5">
-<v-card-title>There are around 280M households in the UK</v-card-title>
+<v-card-title>How many households are there?</v-card-title>
 <v-card-text>
+<p>There are around <a href="https://www.ons.gov.uk/peoplepopulationandcommunity/birthsdeathsandmarriages/families/bulletins/familiesandhouseholds/2022#:~:text=Households-,There%20were%20an%20estimated%2028.2%20million%20households%20in%20the%20UK,2012%20(26.6%20million%20households).">28M</a> households in the UK</p>
 <p>There has to be the equivalent of 3.2M households with nothing to 
 account for those 200 billionaires.</p>
 <p>That's more than 10% of the net worth of the UK population.</p>
