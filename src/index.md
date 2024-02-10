@@ -144,8 +144,8 @@ than the average in order for the scales to balance.</p>
 <v-row class="mt-5">
 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">3,200,000 households with £0</span></v-col>
 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">200 billionaires with £8B</span></v-col>
-<v-col :cols="6"><households icon="mdi-home-city" :size="20" :width="16" :height="20"/></v-col>
-<v-col :cols="6"><households icon="mdi-account-cash" :size="20" :width="10" :height="20"/></v-col>
+<v-col :cols="6"><households icon="mdi-home-city" :size="20" :width="20" :height="16"/></v-col>
+<v-col :cols="6"><households icon="mdi-account-cash" :size="20" :width="20" :height="10"/></v-col>
 <v-col :cols="12"><see-saw/></v-col>
 </v-row>
 </v-card-text>
@@ -171,11 +171,24 @@ still a lot more families that are a lot less than averagely well-off.</p>
 </v-card>
 
 <v-card class="my-5">
+<v-card-title>What good do they do?</v-card-title>
+<v-card-text>
+<p>We are told that billionaires are necessary. That they create jobs.</p>
+<p>They are however a recent innovation. There were no billionaires in 1980.</p>
+<p>The problem with the claim that they create jobs is that we have much the 
+same unemployment today with around 200 billionaires as we did in 1980 when 
+we had none.</p>
+</v-card-text>
+</v-card>
+
+<v-card class="my-5">
 <v-card-title>What does it all mean?</v-card-title>
 <v-card-text>
-<p>The cost-of-living crisis, children in poverty, working families who can't afford 
-food or fuel: These are not a consequence of Brexit, or COVID or immigration. 
-They are the consequence of the systematic transfer of wealth from the poorest to 
-the richest.</p>
+<p>The cost-of-living crisis, children living in poverty, working families who can't afford 
+food or fuel: These are not consequences of the Russia/Ukraine war, or COVID or immigration.</p>
+<p>Were the wealth equally distributed, each household would have that average net worth of 
+close to half a million pounds.</p>
+<p>The situation we are in is a consequence of the insatiable pursuit of wealth by the rich.</p>
+<p>We are both individually and societally impoverished by a few people's pursuit of wealth.</p>
 </v-card-text>
 </v-card>
