@@ -1,0 +1,27 @@
+{
+  "name": "wealthscales",
+  "version": "0.0.1",
+  "description": "Visualise the impact of wealth inequality in terms of extreme wealth",
+  "main": "index.js",
+  "authors": {
+    "name": "Dan Jones",
+    "email": "dan@lunarfish.co.uk"
+  },
+  "repository": "wealthscales/wealthscales",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.70.0",
+    "sass-loader": "^14.1.0",
+    "vuepress": "^1.5.3",
+    "webpack": "^5.0.0"
+  },
+  "dependencies": {
+    "@mdi/font": "^7.4.47",
+    "vue": "^2.6.4",
+    "vuetify": "^2.0.0"
+  }
+}
