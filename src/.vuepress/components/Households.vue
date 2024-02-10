@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div :style="{textAlign:'center'}" v-for="y in heightCells">
+        <div :style="{textAlign:'center', lineHeight:size+'px'}" v-for="y in heightCells">
             <span v-for="x in widthCells">
                 <v-icon color="#1976D2" :size="size">{{ icon }}</v-icon>
             </span>
