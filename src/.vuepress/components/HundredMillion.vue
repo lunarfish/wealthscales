@@ -9,7 +9,7 @@
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">200 households with £0</span></v-col>
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1 person with £100M</span></v-col>
                 <v-col :cols="6"><households icon="mdi-human-male-male-child" :size="20" :width="20" :height="10"/></v-col>
-                <v-col :cols="6"><households icon="mdi-account-cash" :size="200" :width="1" :height="1"/></v-col>
+                <v-col :cols="6"><households icon="mdi-account-cash" :size="150" :width="1" :height="1"/></v-col>
                 <v-col :cols="12"><see-saw :shift-right="1"/></v-col>
             </v-row>
         </v-card-text>

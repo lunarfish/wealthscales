@@ -1,9 +1,11 @@
 <template>
     <div>
-        <div :style="{textAlign:'center', lineHeight:size+'px'}" v-for="y in heightCells">
-            <span v-for="x in widthCells">
-                <v-icon color="#1976D2" :size="size">{{ icon }}</v-icon>
-            </span>
+        <div :style="{textAlign:'center'}">
+            <div :style="{textAlign:'center', display:'inline-block', lineHeight:size+'px', maxWidth: maxWidth+'px'}">
+                <span v-for="x in totalCells">
+                    <v-icon color="#1976D2" :size="size">{{ icon }}</v-icon>
+                </span>
+            </div>
         </div>
     </div>
 </template>
@@ -34,6 +36,12 @@ export default {
         },
         heightCells() {
             return Array.from({length: this.height}, (_, i) => i + 1);
+        },
+        totalCells() {
+            return Array.from({length: (this.width * this.height)}, (_, i) => i + 1);
+        },
+        maxWidth() {
+            return this.width * this.size;
         }
     }
 }
