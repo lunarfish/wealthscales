@@ -1,7 +1,7 @@
 {
   "name": "wealthscales",
   "version": "0.0.1",
-  "description": "Visualise the impact of wealth inequality in terms of extreme wealth",
+  "description": "What does wealth inequality look like?",
   "main": "index.js",
   "authors": {
     "name": "Dan Jones",
