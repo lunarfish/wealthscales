@@ -10,6 +10,8 @@
             <p>In reality there isn't one household with nothing, the cost is shared, but the point is that for 
             the average net worth to be where it is; for every £1 above the average on one side of the scales
             there has to be someone with £1 less than the average on the other side of the scales.</p>
+            <p>The cost of extreme wealth is shared by all of us but what if it was not.</p>
+            <p>What if the cost of extreme wealth were borne by the fewest possible number of people.</p>
             <div style="min-height: 20px"/>
             <v-row class="mt-5">
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1 household with £0</span></v-col>
