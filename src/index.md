@@ -1,7 +1,10 @@
 ---
 home: true
 ---
-
+<v-alert type="warning">
+<p>Sorry - I have not yet figured out how to make this work on a small screen.
+For now it only really works on desktop or maybe a landscape tablet.</p>
+</v-alert>
 <introduction/>
 <div style="min-height: 20px"/>
 <one-million/>
