@@ -11,7 +11,7 @@
   "scripts": {
     "dev": "vuepress dev src",
     "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build src",
-    "copy": "recursive-copy -w src/.vuepress/dist/ dist/",
+    "copy": "recursive-copy -w src/.vuepress/dist/ docs/",
     "update": "yarn build && yarn copy"
   },
   "license": "MIT",
