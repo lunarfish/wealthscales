@@ -7,7 +7,7 @@
             <p>That's 200 x £8B X 2000 households = 3.2M households with nothing</p> 
             <div style="min-height: 20px"/>
             <v-row class="mt-5">
-                <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">3,200,000 households with £0</span></v-col>
+                <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">3,200,000 households with £0<br/>(Roughly 8,000,000 people)</span></v-col>
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">200 billionaires with £8B</span></v-col>
                 <v-col :cols="6"><households icon="mdi-home-city" :size="20" :width="20" :height="16"/></v-col>
                 <v-col :cols="6"><households icon="mdi-account-cash" :size="20" :width="20" :height="10"/></v-col>
