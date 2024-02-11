@@ -10,12 +10,15 @@
   "repository": "wealthscales/wealthscales",
   "scripts": {
     "dev": "vuepress dev src",
-    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build src"
+    "build": "export NODE_OPTIONS=--openssl-legacy-provider && vuepress build src",
+    "copy": "recursive-copy -w src/.vuepress/dist/ dist/",
+    "update": "yarn build && yarn copy"
   },
   "license": "MIT",
   "devDependencies": {
     "html-webpack-inline-source-plugin": "^0.0.10",
     "html-webpack-plugin": "^5.6.0",
+    "recursive-copy-cli": "^1.0.20",
     "sass": "^1.70.0",
     "sass-loader": "^14.1.0",
     "serve": "^14.2.1",
