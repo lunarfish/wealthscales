@@ -1,0 +1,12 @@
+div#app:not(.custom) {
+    max-width: 100%;
+}
+div.theme-default-content:not(.custom) {
+    max-width: 100%;
+}
+div.theme-container.no-sidebar:not(.custom) {
+    max-width: 100%;
+}
+main:not(.custom) {
+    max-width: 90%;
+}

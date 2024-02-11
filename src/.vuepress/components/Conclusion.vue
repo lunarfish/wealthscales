@@ -13,8 +13,8 @@
             <p>We just need to kerb the worst excesses of capitalism.</p>
             <p>No-one needs to be a billionaire.</p>
             <p>There is no-one who can legitimately claim to be worth 
-            4,800 people (2.4 people times 2000 households).</p>
-            <p>Let alone 168,000 people (£35B).</p>
+            5,000 people (2.5 people times 2000 households).</p>
+            <p>Let alone 175,000 people (£35B).</p>
         </v-card-text>
     </v-card>
 </template>

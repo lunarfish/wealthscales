@@ -6,6 +6,7 @@
             <p>There has to be the equivalent of 3.2M households with nothing to account for those 200 billionaires.</p>
             <p>That's more than 10% of the net worth of the UK population.</p>
             <p>The average household size is <a href="https://www.globaldata.com/data-insights/macroeconomic/average-household-size-in-the-united-kingdom-2096133/#:~:text=the%20United%20Kingdom-,The%20United%20Kingdom%20had%20an%20average%20household%20size%20of%202.4,2010%2C%20between%202010%20and%202021.">2.4 people</a>.</p>
+            <p>I have rounded that to 2.5 again to make the maths simpler.</p>
         </v-card-text>
     </v-card>
 </template>

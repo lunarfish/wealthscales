@@ -2,6 +2,7 @@ import Vuetify from "vuetify";
 
 import "vuetify/dist/vuetify.min.css";
 import "@mdi/font/css/materialdesignicons.min.css";
+import "./css/overrides.css";
 
 import Households from "./components/Households.vue";
 import SeeSaw from "./components/SeeSaw.vue";
@@ -18,6 +19,7 @@ import TwoHundredBillionaires from './components/TwoHundredBillionaires.vue';
 import TwentyEightMillionHouseholds from './components/TwentyEightMillionHouseholds.vue';
 import ThreeThousandMillionaires from './components/ThreeThousandMillionaires.vue';
 import Conclusion from './components/Conclusion.vue';
+import Notes from './components/Notes.vue';
 
 const opts = {
   theme: {
@@ -54,4 +56,5 @@ export default ({
   Vue.use(TwentyEightMillionHouseholds);
   Vue.use(ThreeThousandMillionaires);
   Vue.use(Conclusion);
+  Vue.use(Notes);
 };
