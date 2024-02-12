@@ -12,8 +12,8 @@ module.exports = {
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
     ['meta', { name: "og:title", content:"Wealth Scales by lunarfish"}],
     ['meta', { name: "og:description", content:description}],
-    ['meta', { name: "og:image", content:"./assets/images/wealthscales_preview.png"}],
-    ['meta', { name: "og:url", content: "https://lunarfish.github.io/wealthscales/"}]
+    ['meta', { name: "og:image", content:"//lunarfish.github.io/wealthscales/assets/images/wealthscales_preview.png"}],
+    ['meta', { name: "og:url", content: "//lunarfish.github.io/wealthscales/"}]
   ],
   themeConfig: {
     repo: '',
