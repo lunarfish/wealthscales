@@ -7,6 +7,9 @@
             <p>1% of households is about 280K households</p>
             <p>That's an average of £10M each which is roughly 20 average households (50 people).</p>
             <p>So 280K x 20 = 5.6M households or 14M people</p>
+            <p>It's also worth noting that the total from the 170 billionaires was £683B</p>
+            <p>That's almost 1/4 of that top 1%.</p>
+            <p>So of the 700,000 richest people, 1/4 of that money is owned by 170 of them.</p>
             <div style="min-height: 20px"/>
             <v-row class="mt-5">
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">5,600,000 households with £0<br/>(Roughly 14,000,000 people)</span></v-col>
