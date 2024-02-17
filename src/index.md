@@ -29,6 +29,10 @@ For now it only really works on desktop or maybe a landscape tablet.</p>
 <div style="min-height: 20px"/>
 <three-thousand-millionaires/>
 <div style="min-height: 20px"/>
+<top-one-percent/>
+<div style="min-height: 20px"/>
 <conclusion/>
 <div style="min-height: 20px"/>
 <notes/>
+<div style="min-height: 20px"/>
+<revisions/>

@@ -6,9 +6,6 @@
             <p>In most cases I've rounded to make these stats more conservative.</p>
             <p>There are a few cases where the rounding makes the stats less conservative.</p>
             <p>I believe this is adequately balanced by the prior conservative rounding.</p>
-            <p>I have rounded the number of billionaires up from around 170 to 200.</p>
-            <p>Given that these stats ignore a number of high 9 figure multi-millionaires, 
-            I suspect this is balanced in reality.</p>
             <p>I have rounded the average household size up from 2.4 to 2.5 but given the 
             comparisons are with a average household net worth of £500k increased from the 
             real figure of £437K that more than balances the scales.</p>
