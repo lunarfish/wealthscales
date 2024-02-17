@@ -18,6 +18,7 @@ import Town from './components/Town.vue';
 import TwoHundredBillionaires from './components/TwoHundredBillionaires.vue';
 import TwentyEightMillionHouseholds from './components/TwentyEightMillionHouseholds.vue';
 import ThreeThousandMillionaires from './components/ThreeThousandMillionaires.vue';
+import TenThousandRichPeople from './components/TenThousandRichPeople.vue';
 import TopOnePercent from './components/TopOnePercent.vue';
 import Conclusion from './components/Conclusion.vue';
 import Notes from './components/Notes.vue';
@@ -57,6 +58,7 @@ export default ({
   Vue.use(TwoHundredBillionaires);
   Vue.use(TwentyEightMillionHouseholds);
   Vue.use(ThreeThousandMillionaires);
+  Vue.use(TenThousandRichPeople);
   Vue.use(TopOnePercent);
   Vue.use(Conclusion);
   Vue.use(Notes);

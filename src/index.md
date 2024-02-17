@@ -27,7 +27,7 @@ For now it only really works on desktop or maybe a landscape tablet.</p>
 <div style="min-height: 20px"/>
 <twenty-eight-million-households/>
 <div style="min-height: 20px"/>
-<three-thousand-millionaires/>
+<ten-thousand-rich-people/>
 <div style="min-height: 20px"/>
 <top-one-percent/>
 <div style="min-height: 20px"/>

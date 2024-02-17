@@ -21,7 +21,7 @@
                         <br/>
                         <span>Around 700,000 people</span>
                     </div>
-                    <households icon="mdi-account-cash" :size="100" :width="1" :height="1"/>
+                    <households icon="mdi-cash-100" :size="20" :width="7" :height="4"/>
                 </v-col>
                 <v-col :cols="12"><see-saw/></v-col>
             </v-row>
