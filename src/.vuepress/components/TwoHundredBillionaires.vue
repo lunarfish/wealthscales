@@ -11,7 +11,7 @@
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">1,360,000 households with £0<br/>(Roughly 3,400,000 people)</span></v-col>
                 <v-col :cols="6" :style="{textAlign:'center'}"><span class="text-h2">170 billionaires with £4B</span></v-col>
                 <v-col :cols="6"><households icon="mdi-home-city" :size="20" :width="12" :height="11"/></v-col>
-                <v-col :cols="6"><households icon="mdi-account-cash" :size="20" :width="20" :height="10"/></v-col>
+                <v-col :cols="6"><households icon="mdi-account-cash" :size="20" :width="17" :height="10"/></v-col>
                 <v-col :cols="12"><see-saw/></v-col>
             </v-row>
         </v-card-text>
